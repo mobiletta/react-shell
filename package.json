@@ -1,0 +1,11 @@
+{
+  "name": "@mobiletta/react-shell",
+  "version": "1.0.0",
+  "description": "Basic responsive shell for a react application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-3-Clause"
+}
